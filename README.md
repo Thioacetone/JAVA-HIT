@@ -1,2 +1,0 @@
-# JAVA-HIT
-# JAVA-HIT
