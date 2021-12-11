@@ -1,4 +1,4 @@
-package Bai_2;
+package Exam.src.Bai_2;
 
 import java.util.Scanner;
 
