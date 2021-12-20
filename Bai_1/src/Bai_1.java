@@ -1,4 +1,4 @@
-package Bai_1.src;
+
 public class Bai_1 {
     public static void main(String ...args){
         int m = 7, n = 5;
